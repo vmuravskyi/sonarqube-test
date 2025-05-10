@@ -8,6 +8,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
 
 public class AppTest {
+    
     private static Calc calc;
 
     @BeforeAll
